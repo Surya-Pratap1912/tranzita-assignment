@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tranzita-assignment/static/css/main.484ec676.css",
+    "main.js": "/tranzita-assignment/static/js/main.b0792fe8.js",
+    "index.html": "/tranzita-assignment/index.html",
+    "main.484ec676.css.map": "/tranzita-assignment/static/css/main.484ec676.css.map",
+    "main.b0792fe8.js.map": "/tranzita-assignment/static/js/main.b0792fe8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.484ec676.css",
+    "static/js/main.b0792fe8.js"
+  ]
+}
